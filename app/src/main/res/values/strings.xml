@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">audioPlayer</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="textview">TextView</string>
+</resources>
